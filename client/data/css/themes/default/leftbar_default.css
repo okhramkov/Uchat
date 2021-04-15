@@ -1,0 +1,94 @@
+#leftbar
+{
+  background-color: #6044e3;
+  /* border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px; */
+}
+
+#homebutton
+{
+  background-image: url("../../../images/home.png");
+  background-color: #c1ceee;
+  border-radius: 13px;
+}
+#homebutton:hover
+{
+  background-color: rgba(193, 206, 238, 0.7);
+  border-radius: 10px;
+}
+#homebutton:link
+{
+  background-color: rgba(193, 206, 238, 0.7);
+  border-radius: 10px;
+}
+
+#msgbutton
+{
+  background-image: url("../../../images/messanger.png");
+}
+#msgbutton:hover
+{
+  border-radius: 10px;
+  background-color: #fcfcfc;
+}
+#msgbutton:link
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+#groupbutton
+{
+  background-image: url("../../../images/team.png");
+}
+#groupbutton:hover
+{
+  border-radius: 10px;
+  background-color: rgba(57, 69, 109, 0.3);
+}
+#groupbutton:link
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+#eventsbutton
+{
+  background-image: url("../../../images/events.png");
+}
+#eventsbutton:hover
+{
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+#eventsbutton:link
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+#statusbutton:hover
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+#statusbutton:link
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+#settingsbutton
+{
+  background-image: url("../../../images/settings.png");
+}
+#settingsbutton:hover
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+#settingsbutton:link
+{
+  border-radius: 10px;
+  background-color: #ffffff;
+}
